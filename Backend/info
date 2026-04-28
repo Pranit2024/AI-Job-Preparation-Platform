@@ -1,0 +1,7 @@
+multer package is for file handling it used to read the pdf file
+for reading data or content inside the pdf we used pdf-parse
+zod is for structure output
+
+npm i puppeteer
+server side mai browser related features enable krne date hai
+jaise ki html se pdf generate krne ke liye
